@@ -76,7 +76,7 @@ To enhance the learning experience, Cohcode integrates **Piston API**, a powerfu
 
 ## Getting Started
 
-1. **Clone the repository**: `git clone https://github.com/your-username/cohcode.git`
+1. **Clone the repository**: `git clone (https://github.com/PongsatornWaiyaworn/Coh_game.git)`
 2. **Install dependencies**: Follow the instructions for setting up Unity, Spring Boot, and other necessary dependencies.
 3. **Run the game**: Launch the Unity game to begin solving C programming challenges.
 4. **Backend setup**: Configure Spring Boot to handle Piston API integration for code validation.
