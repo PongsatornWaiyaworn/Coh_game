@@ -1,4 +1,4 @@
-# Cohcode: The C Programming Adventure Game
+# Cohcode: The C Programming Game
 
 Cohcode is an educational game designed to help beginners learn and practice basic C programming concepts in a fun and interactive way. Inspired by classic platformers like Super Mario, this game merges gameplay with coding challenges to create an engaging learning experience.
 
