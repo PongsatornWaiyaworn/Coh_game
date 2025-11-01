@@ -74,13 +74,31 @@ To enhance the learning experience, Cohcode integrates **Piston API**, a powerfu
 - **C Code Integration**: Custom parsers and compilers to validate player-written code
 - **API for Code Execution**: Piston API
 
-## Getting Started
+## Game Screenshots Example
 
-1. **Clone the repository**: `git clone https://github.com/PongsatornWaiyaworn/Coh_game.git`
-2. **Install dependencies**: Follow the instructions for setting up Unity, Spring Boot, and other necessary dependencies.
-3. **Run the game**: Launch the Unity game to begin solving C programming challenges.
-4. **Backend setup**: Configure Spring Boot to handle Piston API integration for code validation.
+### Game Start Screen
+<img src="screenshots/start_screen.png" width="500"/>
 
-## Contributing
+### Level Selection Screen
+<img src="screenshots/level_select.png" width="500"/>
 
-If you'd like to contribute to Cohcode, feel free to fork the repository, submit pull requests, or open issues for bugs or feature requests. Contributions are welcome!
+### Game Launch Screen
+<img src="screenshots/game_start.png" width="500"/>
+
+### Example of Level 1
+<img src="screenshots/level1_example.png" width="500"/>
+
+### Example Quest in Level 1
+<img src="screenshots/quest_example_level1.png" width="500"/>
+
+### Example Coding Challenge in Level 1
+<img src="screenshots/coding_challenge_level1.png" width="500"/>
+
+### Output When Player’s Code is Correct
+<img src="screenshots/correct_code_output.png" width="500"/>
+
+### Output When Player’s Code is Incorrect
+<img src="screenshots/wrong_code_output.png" width="500"/>
+
+### Leaderboard
+<img src="screenshots/leaderboard.png" width="500"/>
